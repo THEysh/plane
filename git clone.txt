@@ -1,3 +1,0 @@
-www.github.com.cnpmjs.org
-
-https://github.com.cnpmjs.org/JizhiziLi/animal-matting.git
