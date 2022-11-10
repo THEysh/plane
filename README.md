@@ -18,4 +18,4 @@
 
 《飞机大战》总共包含两个文件，一个是plane_main.py文件用来书写游戏的主程序，另一个是plane_sprintes.py专门用于保存飞机大战所需精灵的模块。
 
-[!动画](https://github.com/THEysh/plane/blob/main/plane/%E5%8A%A8%E7%94%BB.gif)
+![动画](https://github.com/THEysh/plane/blob/main/plane/%E5%8A%A8%E7%94%BB.gif)
